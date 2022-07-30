@@ -16,8 +16,6 @@
 <strong>Visit my personal website </strong>
 <br />
 <br />
-
-<!-- Centering something has never been easy, has it? -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
@@ -31,7 +29,7 @@
 <a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
 <strong>Listen to cool music</strong>
 <br />
-
+<br />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
