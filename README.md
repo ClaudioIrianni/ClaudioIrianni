@@ -20,7 +20,7 @@
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<a href="https://open.spotify.com/playlist/37i9dQZF1E4AhRFH8iYt9q?si=0f22fe111f5f4c1b">
 <strong>Listen to cool music</strong>
 <br />
 <br />
