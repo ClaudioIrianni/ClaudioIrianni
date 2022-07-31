@@ -1,11 +1,14 @@
 <!-- "Hero" Header -->
 <div align="center">
+ <br />
+  <img height="50" alt="Hi name is Claudio" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" />
+  <br />
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
-  <br />
-  <br />
-  <br />
+</div>
 
+<div align="centerr">
+<strong></strong>
 </div>
 
 <!-- Social -->
