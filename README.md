@@ -1,7 +1,7 @@
 <!-- "Hero" Header -->
 <div align="center">
  <br />
-  <div align="centerr">
+  <div align="center">
 <strong>Hi 👋 My Name is Claudio</strong>
 </div>
   <br />
@@ -15,7 +15,7 @@
 <table align="center" width="100%">
 <tr>
 <td align="center">
-<a href="https://claudioiriannidev.vercel.app/">
+<a href="https://www.cirianni.dev/">
 <strong>Visit my personal website </strong>
 <br />
 <br />
