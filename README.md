@@ -11,33 +11,8 @@
 
 
 
-<!-- Social -->
-<table align="center" width="100%">
-<tr>
-<td align="center">
-<a href="https://www.cirianni.dev/">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-</td>
-
-
-<td align="center">
-<a href="https://open.spotify.com/playlist/37i9dQZF1E4AhRFH8iYt9q?si=0f22fe111f5f4c1b">
-<strong>Listen to cool music</strong>
-<br />
-<br />
-</td>
-</tr>
-</table>
-
-
-
-<!-- Footer -->
-
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
 
